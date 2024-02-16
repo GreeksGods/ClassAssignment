@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/VRTemplate/Maps/MessingAround.umap",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/VRTemplate/Maps/Testing_map.umap",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Test.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/StarterContent/Props/SM_Shelf.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/VRTemplate/Maps/Hallway.umap",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/HallwayLevel.umap",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Megascans/3D_Assets/Roman_Statue_tgeodcxda/S_Roman_Statue_tgeodcxda_lod0.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Picture_WithLight.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Photos/OIP__4_.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Photos/OIP.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Photos/Materials/OIP__4__Mat.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Photos/Materials/OIP_Mat.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/VRTemplate/Blueprints/AudioComponent.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Sounds/421644__julius_galla__music-from-creepy-handorgan-for-elise.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Sounds/AudioComponent.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Demo_Sound.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/SoundCue.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Demo.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Sounds/329520__sirbedlam__angry-ghost-voice-get-over-here.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/OIP__4_.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/OIP__4__Mat.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Photos/Picture_WithLight.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/VRClass_Dunn/Content/Storyhall/Photos/OIP__4__Mat.uasset"
+			]
+		}
+	]
+}
