@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ddunn4/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/Storyhall/HallwayLevel.umap",
+				"C:/Users/ddunn4/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ddunn4/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/LineTraceDEMO/GlowingOrb.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/LineTraceDEMO/BP_LookAt.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/LineTraceDEMO/BP_TickTrigger.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/LineTraceDEMO/LS_OrbAnim.uasset",
+				"C:/Users/ddunn4/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/dunnb/OneDrive/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/dunnb/OneDrive/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/Storyhall/Picture_WithLight.uasset",
 				"C:/Users/dunnb/OneDrive/Documents/Unreal Projects/ClassAssignment1/VRClass_Dunn/Content/Storyhall/HallwayLevel.umap",
